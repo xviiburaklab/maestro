@@ -1,6 +1,11 @@
 ## This project is a simulation of a production-like system designed for learning and experimentation.
 
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-async-green)
+![Docker](https://img.shields.io/badge/docker-ready-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 #  AI Agent-Orchestrated Microservice Platform
 
