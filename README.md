@@ -1,3 +1,7 @@
+![Maestro](./maestro.png)
+
+
+
 ## This project is a simulation of a production-like system designed for learning and experimentation.
 
 
