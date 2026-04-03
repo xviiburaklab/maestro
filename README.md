@@ -1,7 +1,5 @@
-_**This project is a simulation of a production-like system designed for learning and experimentation._
+This project is a simulation of a production-like system designed for learning and experimentation._
 
-
-**_
 #  AI Agent-Orchestrated Microservice Platform
 
 This project is a microservice-based system where an AI agent
