@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _**This project is a simulation of a production-like system designed for learning and experimentation._
 
 
@@ -238,3 +239,7 @@ distributed systems basics\
 - orchestration patterns\
 - async processing\
 - AI-assisted workflows (simulated)
+=======
+# maestro
+AI-powered microservice orchestration platform with Saga-based fault tolerance and distributed workflow execution.
+>>>>>>> 9a7b5ab54f8ee6f203eaf96f3412ac35b74fb452
